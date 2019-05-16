@@ -19,5 +19,3 @@ def main():
 
 if __name__ == '__main__':
     main()
-print('Kacke')
-IDIOTA PUTA BLYAT
